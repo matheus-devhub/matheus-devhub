@@ -17,3 +17,5 @@
   <a href="https://www.linkedin.com/in/matheus-santos-54507322a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+![Snake animation]  github_user_name: Math2003s
