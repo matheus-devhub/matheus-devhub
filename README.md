@@ -18,4 +18,4 @@
 </div>
 
 
-![Snake animation]  https://github.com/Math2003s/Math2003s.git
+![Snake animation]  https://github.com/Math2003s/Math2003s/edit/main/README.md
