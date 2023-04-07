@@ -18,4 +18,4 @@
 </div>
 
 
-![Snake animation]  (https://g)ithub.com/math2003s/math2003s/blob/output/github-contribuition-grid-snake.vsg)
+![Snake animation]  (https://g)ithub.com/Math2003s/Math2003s/blob/output/github-contribuition-grid-snake.vsg)
