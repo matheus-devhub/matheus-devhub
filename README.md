@@ -1,7 +1,7 @@
 ## Hi, I'm Matheus and I'll be a full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a freelancer dev
+- 🌱 I’m currently learning java and mysql
 - ⚡ Fun fact: I'm a metal head
 
 <div style="display: inline_block"><br>
