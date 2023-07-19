@@ -1,8 +1,8 @@
-## Hi, I'm Matheus and I'll be a full-stack developer
+## Hi, I'm Matheus and I'll be a front-end developer
 
 - 🔭 I’m currently working as a freelancer dev
-- 🌱 I’m currently learning java and mysql
-- ⚡ Fun fact: I'm a metal head
+- 🌱 I’m currently learning react
+- ⚡ Fun fact: I'm a metalhead
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
