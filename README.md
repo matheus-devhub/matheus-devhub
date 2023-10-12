@@ -11,12 +11,9 @@
   <img align="center" alt="Theus-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Theus-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain-wordmark.svg">
   <img align="center" alt="Theus-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Theus-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
+  <img align="center" alt="Theus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Theus-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Theus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain-wordmark.svg">
-  
-          
-  <img align="center" alt="Theus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
