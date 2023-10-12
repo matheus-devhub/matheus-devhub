@@ -1,14 +1,20 @@
-## Hi, I'm Matheus and I'll be a front-end developer
+## Hi, I'm Matheus and I'm a developer
 
-- 🔭 I’m currently working as a freelancer dev
+- 💻 Working as a freelancer frontend dev
 - 🌱 I’m currently learning react
-- ⚡ Fun fact: I'm a metalhead
+- 🌟 Sometimes coding on backend languages
+- 🚀 Always exploring new horizons in tech
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Theus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Theus-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Theus-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain-wordmark.svg">
   <img align="center" alt="Theus-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Theus-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
+  <img align="center" alt="Theus-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Theus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain-wordmark.svg">
+  
           
   <img align="center" alt="Theus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
