@@ -1,9 +1,6 @@
-## Hi, I'm Matheus and I'm a developer
-
-- 💻 Working as a freelancer full stack dev
-- 🌱 I’m currently learning react
-- 🌟 Sometimes coding on backend languages
-- 🚀 Always exploring new horizons in tech
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!; I'm+Matheus!;">
+</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
