@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus and I'm a developer
 
-- 💻 Working as a freelancer frontend dev
+- 💻 Working as a freelancer full stack dev
 - 🌱 I’m currently learning react
 - 🌟 Sometimes coding on backend languages
 - 🚀 Always exploring new horizons in tech
