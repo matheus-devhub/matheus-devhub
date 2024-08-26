@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+😃;+I'm+Matheus!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+visitor!+😃;+I'm+Matheus!;" />
 </h1>
 
-<h3 align="center">A full stack developer from Brazil - São Paulo </h3>
+<h3 align="center">A software developer from Brazil - São Paulo </h3>
 
 <br/>
 
 <div align="center">
  
- 💻 I’m currently working as a **Freelancer Developer**
+ 💻 I’m currently working as a **Freelancer developer**
  
  🌱 I’m currently learning **React and Django**
 
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,django,java,php,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" /><br>
 </div>
 
