@@ -8,9 +8,7 @@
 
 <div align="center">
  
- 💻 I’m currently working as a **Freelancer developer**
- 
- 🌱 I’m currently learning **Django and Angular**
+ 🌱 I’m currently learning **Django**
 
  </div>
  
@@ -21,9 +19,9 @@
   <a href="https://www.linkedin.com/in/matheusdevhub" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://matheus-softwaredev.netlify.app/" target="_blank">
+  <!--<a href="https://matheus-softwaredev.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+  </a>-->
 </div>
 
  <hr/>
